@@ -1,4 +1,4 @@
-package so4;
+package filosofos_cilicos;
 
 public class Filosofo extends Thread {
 	int estomago;
