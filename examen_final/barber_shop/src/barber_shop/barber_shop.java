@@ -1,3 +1,4 @@
+//creditos : https://orajavasolutions.wordpress.com/tag/sleeping-barber-problem/
 package barber_shop;
 import java.awt.TextArea;
 import java.util.Date;
